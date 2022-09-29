@@ -17,24 +17,8 @@ https://github.com/Fariaskarina/credit-risk-machine-learning.git
 
 You can do this manually:
 ```
-pip install pandas
+pip install pandas numpy seaborn matplotlib plotly sklearn
 ```
-```
-pip install numpy
-```
-```
-pip install seaborn
-```
-```
-pip install matplotlib
-```
-```
-pip install plotly
-```
-```
-pip install sklearn
-```
-
 Or using:
 ```
   pip install -r requirements.txt
