@@ -6,5 +6,41 @@ This code uses users' credit history to predict whether or not they have paid th
 
 Please visit my LinkedIn and learn more about my work: https://www.linkedin.com/in/karina-farias-10a15a17a/
 
+### How to build and run the preprocessing notebook locally
 
+1. Clone the source code
+```
+https://github.com/Fariaskarina/credit-risk-machine-learning.git
+```
+
+2. Install libraries
+
+You can do this manually:
+```
+pip install pandas
+```
+```
+pip install numpy
+```
+```
+pip install seaborn
+```
+```
+pip install matplotlib
+```
+```
+pip install plotly
+```
+```
+pip install sklearn
+```
+
+Or using:
+```
+  pip install -r requirements.txt
+```
+
+### Dataset
+The Kaggle Platform user history Datasheet was used:
+[Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
 
