@@ -1,6 +1,6 @@
 ![creditrisk](https://user-images.githubusercontent.com/84626126/193157220-7d96567c-892a-4afa-8bbf-7e680c3128b3.jpg)
 # <h1 align="center"> Credit risk with machine learning </h1>
-#### (under construction)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=GREEN&style=for-the-badge)
 
 
 Data pre-processing for credit risk prediction with Machine Learning algorithm using Python.
